@@ -1,1 +1,2 @@
-# fetchAPI
+# fetchAPI - updated easyHTTP
+
